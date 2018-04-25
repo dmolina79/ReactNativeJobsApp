@@ -6,7 +6,12 @@ Jobs search application using Indeed API, [React Navigation](https://reactnaviga
 *Disclaimer: I followed through Stephen Grinder's [Advanced React Native](https://www.udemy.com/react-native-advanced/).
 This app was intended for Expo.io v17.0.0, but since i developed
 this project Expo.io has undergone a lot of updates which currently break the app.
-Need sometime to try to push a working copy of the app sometime soon with the updated libraries that have changed/deprecated since. 
+I have updated it to Expo v26.0.0 but a few features were broken from
+the original design functionality.
+
+### Bugs and TODOs
+*Currently FB authentication as original intended is broken for token retrieval
+*No authentication currently in place to view app.
 
 [navigations](https://reactnavigation.org/docs) and [react native]
 
